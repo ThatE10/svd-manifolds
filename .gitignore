@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Data
+data/
+*.safetensors
+*.pt
+*.bin
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.jsonl
+*.parquet
+*.arrow
+
+# OS
+.DS_Store
